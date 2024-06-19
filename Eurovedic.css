@@ -1,0 +1,241 @@
+﻿	.whole {
+	background-color: #53371C;
+}
+.central {
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	margin-top: 20px;
+	background-color: #484606;
+}
+.Title {
+	background-repeat: no-repeat;
+	background-image: url('images/EuroVedic5.gif');
+	height: 135px;
+	position: absolute;
+	width: 271px;
+	top: 0px;
+	left: 0px;
+}
+#mainmenu {
+	border-style: 0;
+	border-color: 0;
+	border-width: 0px;
+	padding: 25px 0px 10px 0px;
+	width: 530px;
+	height: 100px;
+	top: 0px;
+	right: 0px;
+	float: right;
+}
+#mainmenu ul {
+	list-style-type: none;
+	background-image: url('images/Menu.gif');
+	border-right-width: 40px;
+	border-right-style: solid;
+	border-right-color: #484606;
+}
+#mainmenu ul li {
+	display: inline;
+	margin-left: 25px;
+	font-size: x-large;
+}
+#mainmenu ul li a {
+	color: FFFFFF;
+	text-decoration: none;
+	font-size: x-large;
+}
+#mainmenu ul li a:visited {
+	color: FFFFFF;
+}
+#mainmenu ul li a:hover {
+	background-color: #484606;
+}
+#bod {
+	padding: 25px;
+	display: block;
+	width: 50%;
+	float: right;
+	color: #FFFFCC;
+	font-size: large;
+	text-align: center;
+	clip: rect(auto, auto, auto, auto);
+	vertical-align: middle;
+	white-space: normal;
+	top: 0px;
+	right: 0px;
+}
+#contact {
+	float: left;
+	width: 250px;
+	font-size: large;
+	color: #FFFFCC;
+	padding: 25px;
+}
+#photo {
+	clear: both;
+}
+	#photo ul li {
+		display: inline;
+	}
+#map {
+	padding: 10px;
+	float: right;
+	clip: rect(auto, auto, auto, auto);
+}
+#I1 {
+    width: 350px;
+	height: 450px;
+	border-width: 0px;
+	}
+.clear {
+	visibility: hidden;
+	clear: both;
+}
+.driving {
+	font-family: Centaur;
+	color: #FFFFCC;
+	padding-top: 50px;
+	padding-left: 25px;
+	font-size: large;
+}
+.driving li {
+	padding: 2px;
+	border-width: 10px;
+	line-height: 19px;
+}
+.Service2 {
+	position: relative;
+	height: 500px;
+}
+.itemDisplay1 {
+	float: left;
+	color: #FFFFCC;
+	width: 80px;
+}
+.itemDisplay2 {
+}
+#identity 
+{
+	color: #FFFFFF;
+	font-size: large;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+#identity a
+{
+    text-decoration:none;
+}
+
+#identity a:visited
+{
+    color: #FFFFFF;
+}
+
+#identity a:link
+{
+    color: #FFFFFF;
+}
+#line2 {
+	position: relative;
+	top: 20px;
+	left: 250px;
+	width: 250px;
+}
+#line1 {
+}
+#adminmenu {
+}
+#adminmenu ul {
+}
+#adminmenu ul li {
+	display: inline;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#adminmenu ul li a {
+		font-size: large;
+		color: #FFFFFF;
+	}
+#adminmenu ul li a:visited {
+		color: #FFFFFF;
+		font-size: large;
+	}
+a:visited {
+	font-size: large;
+	color: #FFFFFF;
+}
+a {
+	font-size: large;
+	color: #FFFFFF;
+}
+.panel2 {
+	background-image: url('images/appointmentback.gif');
+	width: 463px;
+	height: 732px;
+}
+.service {
+	border-style: inherit;
+	border-right-width: 40px;
+	border-left-width: 40px;
+	padding-right: 35px;
+	padding-left: 35px;
+	padding-bottom: 50px;
+}
+#serviceheader {
+	border: medium solid #53371c;
+	background-color: #333300;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-top: 50px;
+	color: #FFFFFF;
+}
+#Footer {
+	}
+#Footer hr {
+	border-style: none;
+	color: #669900;
+	background-color: #669900;
+	height: 2px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+
+.serviceparagraph {
+	font-size: large;
+	color: #FFFFCC;
+	background-color: #333300;
+	display: none;
+}
+.servicedetail {
+	margin: 30px 15px 30px 15px;
+	border: medium solid #53371C;
+	padding: 10px 20px 10px 20px;
+	font-size: large;
+	color: #FFFFCC;
+	background-color: #333300;
+}
+.serviceline {
+	font-size: large;
+	color: #FFFFCC;
+}
+.serviceshow {
+	font-size: small;
+	color: #CCFFCC;
+	float: left;
+	padding-left: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+.servicehover 
+{
+    cursor:pointer;
+    background-color:#224400;
+}
+
+
